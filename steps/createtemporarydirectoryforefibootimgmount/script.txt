@@ -1,3 +1,3 @@
 cd {automationWorkerBaseDirectory}/build-{newOsLinuxNode.fqn}
-mkdir temporary_mount
+mkdir -p temporary_mount
 ls -ltrh
