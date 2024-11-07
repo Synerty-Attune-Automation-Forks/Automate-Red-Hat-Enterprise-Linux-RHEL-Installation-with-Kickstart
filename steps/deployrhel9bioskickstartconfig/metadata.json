@@ -1,5 +1,5 @@
 {
-    "actionOnStepFail": null, 
+    "actionOnStepFail": "stop", 
     "archiveKey": "rhel9bioskickstartconfig", 
     "deployPath": "{automationWorkerBaseDirectory}/build-{newOsLinuxNode.fqn}", 
     "enabled": true, 
@@ -35,7 +35,7 @@
             "parameterType": "c.s.s.b.phv.Text"
         }, 
         {
-            "name": "rhelBaseosBootUrl", 
+            "name": "rhelBaseosBootUrlOrCdrom", 
             "parameterKey": "rhel9baseosrepourl", 
             "parameterType": "c.s.s.b.phv.Text"
         }
