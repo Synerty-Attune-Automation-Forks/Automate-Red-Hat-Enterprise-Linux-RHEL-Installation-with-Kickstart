@@ -1,0 +1,11 @@
+{
+    "externalUuid4": "0fe98415-bb77-4b34-ba07-f4c3f87866da", 
+    "fileName": "rhel-9.4-x86_64-dvd.iso", 
+    "formatKey": "unknown", 
+    "key": "rhel94dvdiso", 
+    "md5": "0540634063e3ec11686c884d89d8668b", 
+    "name": "RHEL9.4 DVD ISO", 
+    "remoteUri": null, 
+    "size": 3698917376, 
+    "type": "com.servertribe.attune.tuples.FileArchiveLargeTuple"
+}

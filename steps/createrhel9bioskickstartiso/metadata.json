@@ -7,31 +7,24 @@
     "key": "createrhel9bioskickstartiso", 
     "links": [
         {
-            "order": 50, 
             "stepKey": "cleanbuildfiles"
         }, 
         {
-            "order": 100, 
-            "stepKey": "deployrhel9bootiso"
+            "stepKey": "deployrhel9dvdiso"
         }, 
         {
-            "order": 150, 
             "stepKey": "extractrheliso"
         }, 
         {
-            "order": 200, 
             "stepKey": "deployrhel9bioskickstartconfig"
         }, 
         {
-            "order": 250, 
             "stepKey": "copyrpmcacertificatesfromdropindirectory"
         }, 
         {
-            "order": 300, 
             "stepKey": "createbiosbootiso"
         }, 
         {
-            "order": 350, 
             "stepKey": "deletebuilddirectory"
         }
     ], 
